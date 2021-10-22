@@ -1,4 +1,5 @@
 # *.streamDeckAudio Deobfuscator
+![rust build badge](https://github.com/wischi-chr/StreamDeckAudioDeobfuscator/actions/workflows/rust.yml/badge.svg)  
 The streamDeckAudio Deobfuscator (sdad) is a tool that coverts `*.wav` files to `*.streamDeckAudio` and vice versa. This is mainly just a very tiny project for me to get used to [Rust](https://www.rust-lang.org/). So if you know Rust and see something awful, please open an issue I'd love to lean more.
 
 ## Legal stuff
